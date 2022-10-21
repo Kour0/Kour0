@@ -7,7 +7,7 @@
 
 📚 I'm a student engineer at [**TELECOM NANCY**](https://telecomnancy.univ-lorraine.fr/)
 
-🌱 I’m currently learning - Flutter <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />, ReactJS <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+🌱 I’m currently learning - Flutter <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />, ReactJS <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />, C <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=flat">
 
 - 📮 Contact me at [**lucas.laurent@telecomnancy.eu**](mailto:alexis.marcel@telecomnancy.eu)
 
@@ -27,6 +27,7 @@
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat)
+  ![OCaml](https://img.shields.io/static/v1?style=flat&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF)
 ## Tools
 
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
