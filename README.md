@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning - Flutter <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />, ReactJS <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />, C <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=flat">
 
-- 📮 Contact me at [**lucas.laurent@telecomnancy.eu**](mailto:alexis.marcel@telecomnancy.eu)
+- 📮 Contact me at [**lucas.laurent@telecomnancy.net**](mailto:lucas.laurent@telecomnancy.net)
 
 [//]: # (- 📫 How to reach me: [![Linkedin]&#40;https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat&#41;]&#40;https://www.linkedin.com/in/alexis-marcel/&#41;)
 
