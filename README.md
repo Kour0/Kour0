@@ -38,6 +38,19 @@
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-## Stats
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kour0&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Laurent"/></div>
+
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kour0&layout=compact"/></div>
+
+#### Top Repositories
+
+
+<a href="https://github.com/kour0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/kour0/kour0.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
