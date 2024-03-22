@@ -46,8 +46,8 @@
 ## Top Repositories
 
 
-<a href="https://github.com/kour0/CompilateurMiniAda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=CompilateurMiniAda&theme=buefy" />
+<a href="https://github.com/kour0/CompilerMiniAda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=CompilerMiniAda&theme=buefy" />
 </a>
 <a href="https://github.com/kour0/TheSharedGarden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=TheSharedGarden&theme=buefy" />
