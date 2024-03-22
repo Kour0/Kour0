@@ -39,10 +39,11 @@
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 
+## Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kour0&layout=compact"/></div>
 
-#### Top Repositories
+## Top Repositories
 
 
 <a href="https://github.com/kour0/CompilateurMiniAda">
