@@ -7,11 +7,11 @@
 
 📚 I'm a student engineer at [**TELECOM NANCY**](https://telecomnancy.univ-lorraine.fr/)
 
-🌱 I’m currently learning - Flutter <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />, ReactJS <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />, C <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=flat">
+🌱 I’m currently learning - ReactJS <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />, C <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=flat">
 
 - 📮 Contact me at [**lucas.laurent@telecomnancy.net**](mailto:lucas.laurent@telecomnancy.net)
 
-[//]: # (- 📫 How to reach me: [![Linkedin]&#40;https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat&#41;]&#40;https://www.linkedin.com/in/alexis-marcel/&#41;)
+[//]: # (- 📫 How to reach me: [![Linkedin]&#40;https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat&#41;]&#40;https://www.linkedin.com/in/lucas-laurent06/&#41;)
 
 ## Languages and technologies
 
@@ -27,7 +27,7 @@
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat)
-  ![OCaml](https://img.shields.io/static/v1?style=flat&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF)
+  ![OCaml](https://img.shields.io/badge/OCaml-430098?style=flat&logo=OCaml&logoColor=FFFFFF&color=EC6813)
 ## Tools
 
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
@@ -39,6 +39,5 @@
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ## Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kour0&count_private=true&theme=radical&show_icons=true"/></div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Kour0&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Alexis Marcel"/></div>
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kour0&layout=compact"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kour0&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Laurent"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kour0&layout=compact"/></div>
