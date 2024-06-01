@@ -28,11 +28,13 @@
 ## Technologies
 
   ![Nodejs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-00838F?style=for-the-badge&logo=javafx&logoColor=white&style=flat)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&style=flat)
   ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat)
   ![WebSocket.io](https://img.shields.io/badge/WebSocket.io-000000?style=for-the-badge&logo=websocket&logoColor=white&style=flat)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&style=flat)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-005276?style=for-the-badge&logo=sqlalchemy&logoColor=white&style=flat)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
   ![Css](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat)
@@ -41,7 +43,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat)
   ![ROS](https://img.shields.io/badge/ROS-2D3C44?style=for-the-badge&logo=ros&logoColor=white&style=flat)
   ![RosBridge](https://img.shields.io/badge/RosBridge-2D3C44?style=flat&logo=ros&logoColor=FFFFFF&color=2D3C44)
-  ![JavaFX](https://img.shields.io/badge/JavaFX-00838F?style=for-the-badge&logo=javafx&logoColor=white&style=flat)
+  ![Gurobi](https://img.shields.io/badge/Gurobi-005276?style=for-the-badge&logo=gurobi&logoColor=white&style=flat)
 
 ## Tools
 
