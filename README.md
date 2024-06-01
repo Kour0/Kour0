@@ -78,8 +78,8 @@
 <a href="https://github.com/kour0/DirectDealing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=DirectDealing&theme=buefy" />
 </a>
-<a href="https://github.com/kour0/Nmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=Nmap&theme=buefy" />
+<a href="https://github.com/kour0/Light_Nmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=Light_Nmap&theme=buefy" />
 </a>
 
 <br />
