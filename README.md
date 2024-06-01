@@ -7,7 +7,7 @@
 
 📚 I'm a student engineer at [**TELECOM NANCY**](https://telecomnancy.univ-lorraine.fr/)
 
-🌱 I’m currently learning - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&style=flat)
+🌱 I’m currently learning : ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&style=flat)
 
 📮 Contact me at [**lucas.laurent@telecomnancy.net**](mailto:lucas.laurent@telecomnancy.net)
 
