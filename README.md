@@ -70,21 +70,5 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kour0&layout=compact"/></div>
 
-## Top Repositories
-
-
-<a href="https://github.com/kour0/CompilerMiniAda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=CompilerMiniAda&theme=buefy" />
-</a>
-<a href="https://github.com/kour0/TheSharedGarden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=TheSharedGarden&theme=buefy" />
-</a>
-<a href="https://github.com/kour0/DirectDealing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=DirectDealing&theme=buefy" />
-</a>
-<a href="https://github.com/kour0/Light_Nmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=Light_Nmap&theme=buefy" />
-</a>
-
 <br />
 <br />
