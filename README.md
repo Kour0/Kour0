@@ -41,6 +41,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat)
   ![ROS](https://img.shields.io/badge/ROS-2D3C44?style=for-the-badge&logo=ros&logoColor=white&style=flat)
   ![RosBridge](https://img.shields.io/badge/RosBridge-2D3C44?style=flat&logo=ros&logoColor=FFFFFF&color=2D3C44)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-00838F?style=for-the-badge&logo=javafx&logoColor=white&style=flat)
 
 ## Tools
 
@@ -73,6 +74,12 @@
 </a>
 <a href="https://github.com/kour0/TheSharedGarden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=TheSharedGarden&theme=buefy" />
+</a>
+<a href="https://github.com/kour0/DirectDealing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=DirectDealing&theme=buefy" />
+</a>
+<a href="https://github.com/kour0/Nmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kour0&repo=Nmap&theme=buefy" />
 </a>
 
 <br />
