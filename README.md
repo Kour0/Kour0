@@ -44,6 +44,8 @@
   ![ROS](https://img.shields.io/badge/ROS-2D3C44?style=for-the-badge&logo=ros&logoColor=white&style=flat)
   ![RosBridge](https://img.shields.io/badge/RosBridge-2D3C44?style=flat&logo=ros&logoColor=FFFFFF&color=2D3C44)
   ![Gurobi](https://img.shields.io/badge/Gurobi-005276?style=for-the-badge&logo=gurobi&logoColor=white&style=flat)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&style=flat)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&style=flat)
 
 ## Tools
 
